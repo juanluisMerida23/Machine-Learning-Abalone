@@ -327,6 +327,8 @@ de regresión lineal.
     
 # 7. Creación y entrenamiento del modelo
 
+# 7. Creación y entrenamiento del modelo
+
 from sklearn.linear_model import LinearRegression
 
 print("""
@@ -393,6 +395,7 @@ El siguiente paso consistirá en evaluar la calidad
 de dichas predicciones mediante distintas métricas.
 ==================================================
 """)
+# 8. Evaluación del modelo
 # 8. Evaluación del modelo
 
 from sklearn.metrics import (
